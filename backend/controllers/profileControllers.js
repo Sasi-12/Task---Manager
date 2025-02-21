@@ -10,3 +10,4 @@ exports.getProfile = async (req, res) => {
     return res.status(500).json({ status: false, msg: "Internal Server Error" });
   }
 }
+// new commit
