@@ -40,7 +40,7 @@ A MERN application for basic tasks management.
 - Global user state using Redux
 - Custom Loaders
 - Use of layout component for pages
-- Use of theme colors
+- Use of theme color
 - No external CSS files needed (made using Tailwind CSS)
 - Usage of Tooltips
 - Dynamic document titles
